@@ -9,18 +9,21 @@ Aqui está um quiz com 20 questões de informática, cobrindo os tópicos de seg
 
 #### **Segurança da Informação**
 1. **(Questão 1)** Qual das alternativas representa uma boa prática para a segurança online?
+   
    a) Compartilhar senhas com amigos próximos.  
    b) Utilizar autenticação de dois fatores.  
    c) Manter o antivírus desatualizado.  
    d) Acessar redes Wi-Fi públicas sem precauções.
 
-2. **(Questão 2)** O que significa a prática de phishing?
+3. **(Questão 2)** O que significa a prática de phishing?
+   
    a) É o uso de antivírus desatualizados.  
    b) É o envio de e-mails falsos para roubo de informações.  
    c) É a instalação de um software sem licença.  
    d) É o bloqueio de pop-ups em navegadores.
 
-3. **(Questão 3)** Qual medida pode proteger sua privacidade enquanto navega na internet?
+5. **(Questão 3)** Qual medida pode proteger sua privacidade enquanto navega na internet?
+   
    a) Aceitar todos os cookies.  
    b) Utilizar navegadores no modo privado (incógnito).  
    c) Desativar firewalls.  
