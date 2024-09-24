@@ -1,7 +1,7 @@
 # infoquiz
 Quiz com questões de informatica
 
-Aqui está um quiz com 20 questões de informática, cobrindo os tópicos de segurança da informação, redes, sistemas operacionais, programação e ferramentas de produtividade. Abaixo, fornecerei o gabarito.
+Aqui está um quiz com 20 questões de informática, cobrindo os tópicos de segurança da informação, redes, sistemas operacionais, programação e ferramentas de produtividade.
 
 ---
 
@@ -144,26 +144,4 @@ Aqui está um quiz com 20 questões de informática, cobrindo os tópicos de seg
 
 ---
 
-### **Gabarito**
-1. b  
-2. b  
-3. b  
-4. a  
-5. b  
-6. b  
-7. a  
-8. c  
-9. b  
-10. b  
-11. b  
-12. c  
-13. a  
-14. a  
-15. a  
-16. c  
-17. b  
-18. b  
-19. b  
-20. b  
 
-Esse conjunto de questões aborda conceitos importantes de informática de forma prática e acessível para revisão com os alunos!
